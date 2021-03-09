@@ -1,4 +1,5 @@
 # Google_Hashcode2021
 Our attempt at google hashcode 2021<br />
-Our scorecard is as follows:<br/>![hashcode2021](https://user-images.githubusercontent.com/39663257/110307879-729d7880-8025-11eb-80fe-a7aacc4105a0.png)
+Our scorecard is as follows:<br/>![Screenshot from 2021-03-09 22-44-31](https://user-images.githubusercontent.com/39663257/110510306-13c12780-8129-11eb-95ea-847c8f1730f1.png)
+
 
