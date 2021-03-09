@@ -1,4 +1,6 @@
 #input fed thru command line
+import random
+lol = [1,2,3]
 f = open("out.txt", "w")
 D,I,S,V,F =  [int(x) for x in input().split()]
 edges = []
@@ -24,4 +26,4 @@ for i in range(len(endpoints)):
     f.write(str(c)+"\n")
     for j in edges:
         if(j[0] == endpoints[i]):
-            f.write(j[1]+" "+"1"+"\n")
+            f.write(j[1]+" "+str(random.choice(lol))+"\n")
